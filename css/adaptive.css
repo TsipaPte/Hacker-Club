@@ -1,0 +1,36 @@
+@media (max-width: 1000px) {
+    .hr {
+        width: 700px;
+    }
+}
+@media (max-width: 755px) {
+    .hr {
+        width: 600px;
+    }
+}
+@media (max-width: 630px) {
+    .hr {
+        width: 500px;
+    }
+}
+@media (max-width: 535px) {
+    .hr {
+        width: 400px;
+    }
+}
+@media (max-width: 480px) {
+    .hr {
+        width: 200px;
+    }
+    .form_hr {
+        width: 300px;
+    }
+}
+@media (max-width: 360px) {
+    .form_hr {
+        width: 250px;
+    }
+    .form > input {
+        width: 250px;
+    }
+}
